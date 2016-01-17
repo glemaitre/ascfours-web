@@ -1,0 +1,444 @@
+/* ----- Main Layout Elements ----- */
+body {
+	background:			#f4f4f4;
+	text-align:			center;
+	padding:			0;
+	margin:				0;
+	font-family: 		"Ubuntu", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	background-image: 	url('../images/bg-main.jpg'); 	
+}
+#container {
+	border:				1px solid #dddddd;
+	background-color:	#ffffff;
+	padding:			5px;
+	width:				900px;
+	font-size:			12px;
+	margin:				0 auto;
+	text-align:			left;
+	clear:				both;
+	-moz-border-radius: 25px 25px / 25px 25px;
+	border-radius: 		25px 25px / 25px 25px;
+}
+#header {
+	background-image: 	url('../images/bg-header.jpg'); 
+	background-color:	#a51716;
+	height:				120px;
+	margin:				0 auto;
+	clear:				both; 
+}
+#headerinside {
+	width:				760px;
+	margin:				0 auto;
+	height:				80px;
+	padding-top:		0px;
+	text-align:			left;
+	clear:				both; 	
+}
+#topinside {
+	width:				760px;
+	margin:				0 auto;
+	padding-top:		0px;
+	text-align:			left;
+	clear:				both; 	
+}
+#topsearch {
+	width:				200px;
+	height:				30px;
+	text-align:			center;
+	float:				right;
+	background-image:	url('../images/searchbg.jpg');	
+	background-repeat:	no-repeat;
+}
+.search #mod_search_searchword {
+	width:				170px;
+	border:				1px solid #cccccc;
+	margin-top:			3px;
+}
+#leftsidebar {
+	float:				left;
+	width:				25%; 
+	overflow:			hidden;
+} 
+#main {
+	float:				left;
+	width:				75%;
+	overflow:			hidden;
+}
+#main ul {
+	margin-left:		20px;
+	padding:			0;
+}
+#footer {
+	clear:				both; 
+	text-align:			center;
+	font-size:			10px;
+	padding-top:		10px;
+}
+a, a:visited {
+	color:				#00568d;
+}
+a:hover {
+	color:				#af0c0c;
+}
+
+/* ----- Top Menu ----- */
+#topmenu {
+	margin-left:		5px;
+	margin-right:		6px;
+	margin-top:			4px;
+	height:				28px;
+	float:				left;
+	background-image:	url('../images/tabbg.jpg');
+}
+#topmenu ul {
+	margin:				0;
+	padding:			0;
+	list-style:			none;
+}
+#topmenu li {
+	float:				left;
+	height:				28px;
+	background:			url("../images/tableft.jpg") no-repeat left top;
+	margin:				0;
+}
+#topmenu a, #topmenu a:visited {
+	float:				left;
+	display:			block;
+	height:				28px;	
+	background:			url("../images/tabright.jpg") no-repeat right top;
+	padding:			6px 12px 4px 12px;
+	text-decoration:	none;
+	font-weight:		bold;
+	color:				#01336e;
+	letter-spacing:		0px;	
+}
+#topmenu a:hover, #topmenu a:visited:hover {
+	color:				#ffff99;
+}
+
+
+/* ----- Sidebar Elements ----- */
+#leftsidebar .moduletable, #leftsidebar .moduletable_text {
+	border:				1px solid #01336e;
+	background-color:	#fafafa;	
+	margin-top:			10px;
+	padding:			5px;
+}
+#leftsidebar .moduletable h3, #leftsidebar .moduletable_text h3 {
+	padding:			2px;
+	font-size:			11px;
+	color: 				#eaeaea;
+	margin:				-5px;
+	margin-bottom:		5px; 
+	padding:			2px;
+	background-color:	#01336e;
+	border-bottom:		1px solid #777777;
+}
+#leftsidebar p {
+	margin-top:			0px;
+	margin-bottom:		10px;
+}
+#leftsidebar ul {
+	margin:				0px;
+	padding-left:		20px;
+	padding-top:		5px;
+}
+#leftsidebar ul li {
+	margin:				0px;
+	padding:			0px;
+	list-style-type:	square;
+}
+#leftsidebar ul li a {
+	text-decoration:	none;
+}
+#leftsidebar ul li a:hover {
+	text-decoration:	underline;
+}
+
+/* ----- Sidebar Buttons ----- */
+#leftsidebar .moduletable_menu {
+	border:				1px solid #01336e;
+	padding:			1px;
+	margin-bottom: 		10px;
+	background-color: 	#01336e;
+	color: 				#333;
+	font-size:			13px;
+	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 		10px 10px / 10px 10px;
+}
+
+#leftsidebar .moduletable_menu ul {
+	list-style:			none;
+	margin: 			0;
+	padding: 			0;
+	border: 			none;
+	font-size:			13px;
+	
+}
+#leftsidebar .moduletable_menu ul li {
+	border-bottom: 		1px solid #280a0a;
+	border-top: 		1px solid #fef6f6;	
+	border-left: 		1px solid #fbe7e7;
+	border-right: 		1px solid #4f0f0f;	
+	margin: 			0;	
+	font-size:			13px;
+	-moz-border-radius: 5px 5px / 5px 5px;
+	border-radius: 		5px 5px / 5px 5px;
+}
+#leftsidebar .moduletable_menu ul li a {
+	border:				1px solid #222222;
+	display: 			block;
+	padding: 			2px 1px 2px 5px;
+	background-color: 	#9e0000;
+	color: 				#fff;
+	text-decoration: 	none;
+	width: 				100%;
+	font-size:			13px;
+	-moz-border-radius: 10px 10px / 10px 10px;
+	border-radius: 		10px 10px / 10px 10px;
+}
+
+#leftsidebar .submenu ul li a {
+	display: 			block;
+	padding: 			2px 1px 2px 5px;
+	background-color: 	#014a8e;
+	color: 				#eaeaea;
+	text-decoration: 	none;
+	width: 				100%;
+	font-size:			12px;
+	font-style: 		italic;
+}
+
+html>body #leftsidebar .moduletable_menu li a {
+	width: 				auto;
+}
+
+#leftsidebar .moduletable_menu li a:hover {
+	background-color: 	#ffffff;
+	color: 				#01336e;
+	font-weight: 		bold;
+}
+
+#leftsidebar h3 {
+	margin:				0px;
+	padding:			2px;
+	font-size:			12px;
+	color: 				#eaeaea;
+}
+
+
+/* Additional markups */
+span.highlight {
+	background-color:	#fffdd5;
+}
+.pagenavcounter, .pagenav {
+	font-size:			10px;
+} 
+.contenttoc {
+	padding:			5px;
+}
+
+div.componentheading {	/* Component heading */
+	font-family: 		"Ubuntu", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	font-size:			20px;
+	border-bottom:		1px solid #777777;
+	font-weight:		bold;
+	margin-top:			10px;
+	border-bottom:		1px solid #cccccc;
+}
+
+td.contentheading {		/* Post titles/headings */
+	font-size:			16px;
+	font-weight:		bold;
+	clear:				both;
+	padding-top:		7px;	
+}
+table.contentpaneopen {	/* Table wrapping posts */
+	margin:				0;
+	padding:			0;
+}
+td.topedge{
+	font-family: 		"Ubuntu", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	margin:				0px;
+	padding:			2px;
+	font-size:			12px;
+	color: 				#eaeaea;
+	font-weight:		bold;
+	text-align:			center;
+	-moz-border-radius: 5px 5px / 5px 5px;
+	border-radius: 		5px 5px / 5px 5px;
+}
+td.efftable{
+	font-family: 		"Ubuntu", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	margin:				0px;
+	padding:			2px;
+	font-size:			12px;
+	color: 				#eaeaea;
+	font-weight:		bold;
+	text-align:			center;
+}
+td.effname{
+	font-family: 		"Ubuntu", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	margin:				50px;
+	padding:			2px;
+	font-size:			20px;
+	color: 				#01336e;
+	font-weight:		bold;
+	text-align:			center;
+}
+td.newsarrows{
+	border:				1px solid #9e0000;
+	background-color:	#9e0000;
+	-moz-border-radius: 5px 5px / 5px 5px;
+	border-radius: 		5px 5px / 5px 5px;
+}
+td.newstitle{
+	border:				1px solid #01336e;
+	background-color:	#01336e;
+	-moz-border-radius: 5px 5px / 5px 5px;
+	border-radius: 		5px 5px / 5px 5px;
+	font-size:			18px;
+}
+#form-login-remember {	/* Small 'remember me?' text in login form */
+	font-size:			12px;
+	padding-bottom:		5px;
+}
+#form-login {
+	text-align:			center;
+}
+#form-login ul, #form-login-username, #form-login-password, #form-login-remember {
+	text-align:			left;
+}
+fieldset.input, fieldset {
+	border:				0;
+}
+#form-login #form-login-remember {
+	text-align:			center;
+}
+form {
+	margin:				0;
+}
+td.sectiontableentry1 {}	/* Alternating rows for polls */
+td.sectiontableentry2 {		/* Alternating rows for polls */
+	background-color:	#eeeeee;
+}	
+.button {
+	font-size:			10px;
+	padding-left:		5px;
+	padding-right:		5px;	
+	font-family:		"Ubuntu", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	background-color:	#e1e1e1;
+	border-bottom: 		1px solid #000000;
+	border-top: 		1px solid #fef6f6;	
+	border-left: 		1px solid #fbe7e7;
+	border-right: 		1px solid #4f0f0f;	
+}
+.buttonheading img {
+	border: 			none; 
+	margin: 			0;
+	padding:			0;
+}
+span.small { 		/* Small text underneath post title, i.e. 'Written by...' */
+	font-size:			10px;
+	margin:				0;
+	padding:			0;
+}
+td.createdate {		/* Small date under post titles */
+	font-size:			10px;
+	text-align:			left;
+	color:				#999999;
+}
+td.modifydate { 	/* The 'Last Updated' date under posts/modules. */
+	font-size:			10px;
+	text-align:			right;
+	font-style: 		italic;	
+}
+a.readon { 			/* The 'Read More...' link under posts/modules. */
+	font-size:			10px;
+	float:				right;
+	text-align:			right;
+}
+td.article_column {
+	padding-right:		10px;
+}
+td.resultracer {
+	padding-top:		0.5em;
+	padding-bottom:		0.5em;
+}
+table.pollstableborder {
+	text-align:			left;
+	width:				100%;
+}
+h1 {
+	font-size:			15px;
+}
+h2 {
+	font-size:			13px;
+	font-style:			italic;
+}
+p {
+	margin-top:			0;
+	margin-bottom:			10px;
+	padding:			0;
+	line-height:			1.45em;
+	text-align:			justify;
+}
+p.createdate {		/* date for paragraph */
+	font-size:			10px;
+	text-align:			left;
+	color:				#999999;
+}
+.breadcrumbs  {
+	font-size:			10px;
+	color:				#666666;
+}
+div.bannerheader {
+	font-size:			10px;
+}
+
+/* =============================================================================
+   FONTS
+   ========================================================================== */
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Ubuntu Light'), local('Ubuntu-Light'), url(http://themes.googleusercontent.com/static/fonts/ubuntu/v5/_aijTyevf54tkVDLy-dlnD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(http://themes.googleusercontent.com/static/fonts/ubuntu/v5/_xyN3apAT_yRRDeqB3sPRg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url(http://themes.googleusercontent.com/static/fonts/ubuntu/v5/0ihfXUL2emPh0ROJezvraD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Ubuntu Light Italic'), local('Ubuntu-LightItalic'), url(http://themes.googleusercontent.com/static/fonts/ubuntu/v5/DZ_YjBPqZ88vcZCcIXm6VobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Ubuntu Italic'), local('Ubuntu-Italic'), url(http://themes.googleusercontent.com/static/fonts/ubuntu/v5/kbP_6ONYVgE-bLa9ZRbvvvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Ubuntu Bold Italic'), local('Ubuntu-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/ubuntu/v5/OMD20Sg9RTs7sUORCEN-7YbN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu Mono'), local('UbuntuMono-Regular'), url(http://themes.googleusercontent.com/static/fonts/ubuntumono/v4/ViZhet7Ak-LRXZMXzuAfkYbN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
