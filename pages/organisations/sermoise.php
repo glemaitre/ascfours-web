@@ -27,7 +27,7 @@
 	  <div id="main">
 	    <div style="padding-right:10px">
 	      <div class="componentheading">
-		Semi-nocturne FFC de Sermoise sur Loire 
+		Championnat de la Nievre FFC a Sermoise sur Loire 
 		<span class="article_separator">&nbsp;</span>
 	      </div>
 	      
@@ -39,18 +39,38 @@
 		      <div>
 			
 			<hr color="#cccccc" size="1px">
-			  <center> <b>Samedi 23 Mai 2015</b> </center>
+			  <center> <b>Dimanche 8 mai 2016</b> </center>
 			  <center> Résumé : circuit de 1,129 km </center>
 			  <center> Dénivelé positif : 11 m </center>
+			  <center> Depart Port de Plagny</center>
 			  <hr color="#cccccc" size="1px">
-			    <center> Pass' Cyclisme D3-D4: Depart 18 h 00 - 1 h 30 + 5 tours</center>
-			    <center> Pass' Cyclisme D1-D2: Depart 18 h 00 - 1 h 30 + 10 tours</center>
-			    <hr color="#cccccc" size="1px">
+			    <center> <b>Pupilles, poussins, benjamins</b> </center>
+			    <hr width="30%" color="#cccccc" size="1px">
+			      <center> Pupilles: Horaires et distance a confirmer</center>
+			      <center> Poussins: Horaires et distance a confirmer</center>
+			      <center> Benjamins: Horaires et distance a confirmer</center>
+			      <br>
+			    <center> <b>Minimes et cadets</b> </center>
+			    <hr width="30%" color="#cccccc" size="1px">
+			      <center> Minimes: Horaires et distance a confirmer</center>
+			      <center> Cadets: Horaires et distance a confirmer</center>
+			      <br>
+			    <center> <b>Pass' Cyclisme</b> </center>
+			    <hr width="30%" color="#cccccc" size="1px">
+			      <center> Pass' Cyclisme D1-D2: Horaires et distance a confirmer</center>
+			      <center> Pass' Cyclisme D3-D4: Horaires et distance a confirmer</center>
+			      <br>
+			    <center> <b>1-2-3-Juniors</b> </center>
+			    <hr width="30%" color="#cccccc" size="1px">
+			      <center> 1-2: Horaires et distance a confirmer</center>
+			      <center> 3-Juniors: Horaires et distance a confirmer</center>
+			      <br>
+
 
 			      <table class="contentpaneopen">
 
 				<tr>
-				  <center><img src="../../images/news/affiche-sermoise.png" height="707" width="505"/></center>
+				  <!-- <center><img src="../../images/news/affiche-sermoise.png" height="707" width="505"/></center> -->
 				  <center><script type="text/javascript" src="http://www.openrunner.com/orservice/inorser-script.php?key=mykey&amp;ser=S09&amp;id=4628012&amp;w=415&amp;h=350&amp;hp=128&amp;k=5&amp;m=0&amp;pa=0&amp;c=0&amp;ts=1427924722"></script></center>
 				  
 				</tr>
@@ -78,7 +98,8 @@
 			  <ul class="menu"><li id="current" class="active item1"><a href="Montambert.php"><span>Montambert</span></a></li></ul>	
 			  <ul class="menu"><li id="current" class="active item1"><a href="chatillon.php"><span>Chatillon en Bazois</span></a></li></ul>
 			  <ul class="menu"><li id="current" class="active item1"><a href="sermoise.php"><span>Sermoise sur Loire</span></a></li></ul>
-			  <ul class="menu"><li id="current" class="active item1"><a href="luzy.php"><span>Luzy</span></a></li></ul>
+			  <ul class="menu"><li id="current" class="active item1"><a href="lanoclemolaix.php"><span>La Nocle-Molaix</span></a></li></ul>
+			  <ul class="menu"><li id="current" class="active item1"><a href="http://glemaitre.github.io/la-sud-morvandelle/"><span>Luzy</span></a></li></ul>
 			  <!--<ul class="menu"><li id="current" class="active item1"><a href="montsauche.php"><span>Montsauche Les Settons</span></a></li></ul>-->
 			  <!--<ul class="menu"><li id="current" class="active item1"><a href="fours1.php"><span>Fours 12 mai</span></a></li></ul>-->
 			  <!--<ul class="menu"><li id="current" class="active item1"><a href="foursart.php"><span>Fours 30 juin</span></a></li></ul>-->

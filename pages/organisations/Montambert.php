@@ -39,7 +39,7 @@
 		      <div>
 			
 			<hr color="#cccccc" size="1px">
-			  <center> <b> Samedi 28 mars 2015</b> </center>
+			  <center> <b> Samedi 26 mars 2016</b> </center>
 			  <center> Résumé : circuit de 6,666 km </center>
 			  <center> Dénivelé positif : 65 m </center>
 			  <hr color="#cccccc" size="1px">
@@ -80,7 +80,8 @@
 			  <ul class="menu"><li id="current" class="active item1"><a href="Montambert.php"><span>Montambert</span></a></li></ul>	
 			  <ul class="menu"><li id="current" class="active item1"><a href="chatillon.php"><span>Chatillon en Bazois</span></a></li></ul>
 			  <ul class="menu"><li id="current" class="active item1"><a href="sermoise.php"><span>Sermoise sur Loire</span></a></li></ul>
-			  <ul class="menu"><li id="current" class="active item1"><a href="luzy.php"><span>Luzy</span></a></li></ul>
+			  <ul class="menu"><li id="current" class="active item1"><a href="lanoclemolaix.php"><span>La Nocle-Molaix</span></a></li></ul>
+			  <ul class="menu"><li id="current" class="active item1"><a href="http://glemaitre.github.io/la-sud-morvandelle/"><span>Luzy</span></a></li></ul>
 			  <!--<ul class="menu"><li id="current" class="active item1"><a href="montsauche.php"><span>Montsauche Les Settons</span></a></li></ul>-->
 			  <!--<ul class="menu"><li id="current" class="active item1"><a href="fours1.php"><span>Fours 12 mai</span></a></li></ul>-->
 			  <!--<ul class="menu"><li id="current" class="active item1"><a href="foursart.php"><span>Fours 30 juin</span></a></li></ul>-->

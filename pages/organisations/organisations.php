@@ -27,7 +27,7 @@
 	  <div id="main">
 	    <div style="padding-right:10px">
 	      <div class="componentheading">
-		Organisations 2015
+		Organisations 2016
 		<span class="article_separator">&nbsp;</span>
 	      </div>
 	      
@@ -56,12 +56,13 @@
 			  </tr>
 			  <tr>
 			    <td colspan="2">
-			      <p><ul>Prix des Etangs de Montambert le <b>28 mars 2015</b> <a href="Montambert.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-			      <p><ul>Prix de Chatillon en Bazois le <b>26 avril 2015</b> <a href="chatillon.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-			      <p><ul>Semi-nocturne de Sermoise sur Loire le <b>23 mai 2015</b> <a href="sermoise.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-			      <p><ul>Journee sport nature a Luzy <b>11 juillet 2015</b> <a href="luzy.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-			      <p><ul>Prix de Chiddes le <b>9 aout 2015</b> <a href="chiddes.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-			      <p><ul>Vetathlon à Fours le <b>12 septembre 2015</b> <a href="vetathlon.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+			      <p><ul>Prix des Etangs de Montambert le <b>26 mars 2016</b> <a href="Montambert.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+			      <p><ul>Prix de Chatillon en Bazois le <b>24 avril 2016</b> <a href="chatillon.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+			      <p><ul>Championnat de la Nievre FFC a Sermoise sur Loire le <b>8 mai 2016</b> <a href="sermoise.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+			      <p><ul>Championnat Regional FSGT a La Nocle-Molaix le <b>15 mai 2016</b> <a href="lanoclemolaix.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+			      <p><ul>Journee sport nature a Luzy <b>16 juillet 2016</b> <a href="http://glemaitre.github.io/la-sud-morvandelle">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+			      <p><ul>Prix de Chiddes le <b>7 aout 2016</b> <a href="chiddes.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+			      <p><ul>Vetathlon à Fours le <b>10 septembre 2016</b> <a href="vetathlon.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
 			    </td>
 			  </tr>
 			</table>
@@ -87,7 +88,8 @@
 		    <ul class="menu"><li id="current" class="active item1"><a href="Montambert.php"><span>Montambert</span></a></li></ul>	
 		    <ul class="menu"><li id="current" class="active item1"><a href="chatillon.php"><span>Chatillon en Bazois</span></a></li></ul>
 		    <ul class="menu"><li id="current" class="active item1"><a href="sermoise.php"><span>Sermoise</span></a></li></ul>
-		    <ul class="menu"><li id="current" class="active item1"><a href="luzy.php"><span>Luzy</span></a></li></ul>
+		    <ul class="menu"><li id="current" class="active item1"><a href="lanoclemolaix.php"><span>La Nocle-Molaix</span></a></li></ul>
+		    <ul class="menu"><li id="current" class="active item1"><a href="http://glemaitre.github.io/la-sud-morvandelle"><span>Luzy</span></a></li></ul>
 		    <!--<ul class="menu"><li id="current" class="active item1"><a href="fours1.php"><span>Fours 12 mai</span></a></li></ul>-->
 		    <!--<ul class="menu"><li id="current" class="active item1"><a href="foursart.php"><span>Fours 30 juin</span></a></li></ul>-->
 		    <ul class="menu"><li id="current" class="active item1"><a href="chiddes.php"><span>Chiddes</span></a></li></ul>

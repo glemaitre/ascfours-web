@@ -37,7 +37,7 @@
 		  <tr>
 		    <td valign="top">
 			<br>
-			  <center> <b> Dimanche 9 Aout 2015 </b> </center>
+			  <center> <b> Dimanche 7 aout 2016 </b> </center>
 			  <hr width="30%" color="#cccccc" size="1px">
 			    <center> Resume: circuit de 6.044 km </center>
 			    <center> Denivele positif : 95 m </center>
@@ -50,16 +50,16 @@
 				<br>
 				  <center> <b> Course sur circuit </b> </center>
 				  <hr width="30%" color="#cccccc" size="1px">
-				    <center>Jeunes et ecole de velo : 13 h 00</center>
+				    <!--<center>Jeunes et ecole de velo : 13 h 00</center>-->
 				    <center>FSGT 5-6, UFOLEP 4, FFC D4, Feminines : 14 h 00 - 9 tours soit 54,3 km</center>
-				    <center>FSGT 4, UFOLEP 3, FFC D3 : 14 h 00 - 10 tours soit 60,4 km</center>
-				    <center>FSGT 3, UFOLEP 2, FFC D2 : 16 h 00 - 12 tours soit 72,5 km</center>
-				    <center>FSGT 1-2, UFOLEP 1, FFC D1 : 16 h 00 - 12 tours soit 72,5 km</center>
+				    <center>FSGT 4, UFOLEP 3, FFC D3 : 14 h 02 - 10 tours soit 60,4 km</center>
+				    <center>FSGT 3, UFOLEP 2, FFC D2 : 16 h 00 - 11 tours soit 66,5 km</center>
+				    <center>FSGT 1-2, UFOLEP 1, FFC D1 : 16 h 02 - 12 tours soit 72,5 km</center>
 				    <br>
 				      <center><b>Engagements</b></center>
 				      <hr width="30%" color="#cccccc" size="1px">
-					<center>Engagement au <a href="mailto:course.chiddes@orange.fr">course.chiddes@orange.fr</a> ou au 03.86.30.21.09</center>
-					<center><b>Prix :</b> CLM - 3 euros; Course - 4 euros</center>
+					<!--<center>Engagement au <a href="mailto:course.chiddes@orange.fr">course.chiddes@orange.fr</a> ou au 03.86.30.21.09</center>-->
+					<center><b>Prix :</b> CLM - 3 euros / Course - 5 euros</center>
 					<center><i>Majoration de 1 euro apres le 5 Aout</i></center>
 					<center><b>Les engagements pour le CLM seront possible sur place dans la limite des places disponibles sur la grille de depart (voir bas de page).</b></center>
 				    <br>
@@ -81,11 +81,11 @@
 					  </table>
 					  </tr>
 					</table>
-				    <center><b>Engagements et horaires CLM</b></center>
+				 <!--   <center><b>Engagements et horaires CLM</b></center>
 				    <hr width="30%" color="#cccccc" size="1px">
 				      <br>
 					<iframe width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/1KxN4_icxE3muUhMNB1GYpn6Xie7Xz97-MSCsdgZy-Mo/pubhtml?gid=0&single=true"></iframe>
-					
+				-->	
 					  <span class="article_separator">&nbsp;</span>
 
 				    <div align="center" class="breadcrumbs">
@@ -103,7 +103,8 @@
 				      <ul class="menu"><li id="current" class="active item1"><a href="Montambert.php"><span>Montambert</span></a></li></ul>
 				      <ul class="menu"><li id="current" class="active item1"><a href="chatillon.php"><span>Chatillon en Bazois</span></a></li></ul>
 				      <ul class="menu"><li id="current" class="active item1"><a href="sermoise.php"><span>Sermoise sur Loire</span></a></li></ul>
-				      <ul class="menu"><li id="current" class="active item1"><a href="luzy.php"><span>Luzy</span></a></li></ul>	
+				      <ul class="menu"><li id="current" class="active item1"><a href="lanoclemolaix.php"><span>La Nocle-Molaix</span></a></li></ul>
+				      <ul class="menu"><li id="current" class="active item1"><a href="http://glemaitre.github.io/la-sud-morvandelle/"><span>Luzy</span></a></li></ul>	
 				      <!--<ul class="menu"><li id="current" class="active item1"><a href="montsauche.php"><span>Montsauche Les Settons</span></a></li></ul>-->
 				      <!--<ul class="menu"><li id="current" class="active item1"><a href="fours1.php"><span>Fours 12 mai</span></a></li></ul>-->
 				      <!--<ul class="menu"><li id="current" class="active item1"><a href="foursart.php"><span>Fours 30 juin</span></a></li></ul>-->

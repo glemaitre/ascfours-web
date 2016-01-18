@@ -53,26 +53,26 @@
 			  </tr>
 			  <!-- Mise a jours calendrier -->
 			  
-			      <tr>
-				<td class="newsarrows" width="7" >
-				  <font style="font-size: 9pt" color="#FFFFFF">&#9658;</font>
-				</td>
-				<td class="newstitle" width="500">
-				  <b><font color="#FFFFFF">&nbsp;Calendriers 2015 disponibles</font></b>
-				</td>
-			      </tr>
-			  <tr>
-			    <td colspan="2">
-			      <section>
-				<h1></h1>
-				<p class="createdate">dimanche 23 mars 2015</p>
-				<p>
-				  Tous les calendriers sont disponibles <a href="/pages/calendrier.php">ici</a>
-				</p>
-			      </section>
-			    </td>
-			  </tr>	
-			</tr>
+			<!--       <tr> -->
+			<!-- 	<td class="newsarrows" width="7" > -->
+			<!-- 	  <font style="font-size: 9pt" color="#FFFFFF">&#9658;</font> -->
+			<!-- 	</td> -->
+			<!-- 	<td class="newstitle" width="500"> -->
+			<!-- 	  <b><font color="#FFFFFF">&nbsp;Calendriers 2015 disponibles</font></b> -->
+			<!-- 	</td> -->
+			<!--       </tr> -->
+			<!--   <tr> -->
+			<!--     <td colspan="2"> -->
+			<!--       <section> -->
+			<!-- 	<h1></h1> -->
+			<!-- 	<p class="createdate">dimanche 23 mars 2015</p> -->
+			<!-- 	<p> -->
+			<!-- 	  Tous les calendriers sont disponibles <a href="/pages/calendrier.php">ici</a> -->
+			<!-- 	</p> -->
+			<!--       </section> -->
+			<!--     </td> -->
+			<!--   </tr>	 -->
+			<!-- </tr> -->
 			  <!-- Dernières infos -->
 			  <tr>
 			  <!-- Titre dernière infos -->
@@ -85,35 +85,55 @@
 			  </td>
 
 
-			  <!-- Texte de la dernière news -->
-			  <!-- The News is coming here -->
+			<!--   <\!-- Texte de la dernière news -\-> -->
+			<!--   <\!-- The News is coming here -\-> -->
+
+			<!--   <tr cellspacing="10"> -->
+			<!--   	<td colspan="2"> -->
+			<!--   	<h1>Annonce de course: Prix de la municipalite de Chiddes</h1> -->
+			<!--   	<p class="createdate">Dimanche 9 Aout 2015</p> -->
+			<!--   	<table> -->
+			<!--   	<tr> -->
+			<!--   	<td style="padding:0 0 5px 0;"> -->
+			<!--   	  <img src="../../images/news/affiche-chiddes-small.png" /> -->
+			<!--   	</td> -->
+			<!--   	<td style="padding:0 5px 0 5px;"> -->
+			<!-- 	  <p>L'ASC Fours organise le prix annuel a Chiddes co-organise avec la muncipalite, le comite des fetes, les artisans et commercants.</p> -->
+			<!-- 	  <p>Cette epreuve innove avec une epreuve Contre-La-Montre (CLM) en matinale en prelude de l'habihutel epreuve sur circuit de l'apres-midi.</p> -->
+			<!--   	  <p>Toutes les informations peuvent etre trouvees <a href="pages/organisations/chiddes.php">[ici]</a>.</p> -->
+			<!-- 	  <p><b>Les engagements pour le CLM seront possible sur place dans la limite des places disponibles sur la grille de depart <a href="pages/organisations/chiddes.php">[ici]</a>.</b></p> -->
+			<!--   	</td> -->
+			<!--   	</tr> -->
+			<!--   	</table> -->
+			<!--   	</td> -->
+			<!--   </tr> -->
+			<!--   </tr> -->
 
 			  <tr cellspacing="10">
 			  	<td colspan="2">
-			  	<h1>Annonce de course: Prix de la municipalite de Chiddes</h1>
-			  	<p class="createdate">Dimanche 9 Aout 2015</p>
+			  	<h1>Annonce de course : Prix des Etangs de Montambert</h1>
+			  	<!-- Date comes here -->
+			  	<p class="createdate">Samedi 26 mars 2016</p>
+			  	<!-- Data -->
 			  	<table>
 			  	<tr>
-			  	<td style="padding:0 0 5px 0;">
-			  	  <img src="../../images/news/affiche-chiddes-small.png" />
-			  	</td>
+			  	<!-- <td style="padding:0 0 5px 0;">
+			  	<img src="../../images/news/affiche-chatillon-small.png" />
+			  	</td>-->
 			  	<td style="padding:0 5px 0 5px;">
-				  <p>L'ASC Fours organise le prix annuel a Chiddes co-organise avec la muncipalite, le comite des fetes, les artisans et commercants.</p>
-				  <p>Cette epreuve innove avec une epreuve Contre-La-Montre (CLM) en matinale en prelude de l'habihutel epreuve sur circuit de l'apres-midi.</p>
-			  	  <p>Toutes les informations peuvent etre trouvees <a href="pages/organisations/chiddes.php">[ici]</a>.</p>
-				  <p><b>Les engagements pour le CLM seront possible sur place dans la limite des places disponibles sur la grille de depart <a href="pages/organisations/chiddes.php">[ici]</a>.</b></p>
+				  <p>Comme chaque annee, le prix des Etangs de Montambert ouvrira la saison UFOLEP dans la Nievre le samedi 26 Mars 2016. Toutes les informations concernant cette manifestation peuvent etre trouvees a l'adresse suivante: <a href="pages/organisations/Montambert.php">[ici]</a>.</p>
 			  	</td>
 			  	</tr>
 			  	</table>
 			  	</td>
 			  </tr>
 			  </tr>
-
+\
 
 			  <!-- <tr cellspacing="10"> -->
 			  <!-- 	<td colspan="2"> -->
 			  <!-- 	<h1>Resultats de course : Prix des Etangs de Montambert</h1> -->
-			  <!-- 	<p class="createdate">Samedi 28 Mars 2015</p> -->
+			  <!-- 	<p class="createdate">Samedi 26 mars 2016</p> -->
 			  <!-- 	<table> -->
 			  <!-- 	<tr> -->
 			  <!-- 	<td style="padding:0 0 5px 0;"> -->
@@ -227,13 +247,14 @@
 			    <td colspan="2">
 			      <section>
 				<h1><b>Organisations futures:</b></h1>
-				<!--<p><ul>Prix des Etangs de Montambert le <b>28 mars 2015</b> <a href="pages/organisations/Montambert.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>-->
-				<p><ul>Prix de Chatillon en Bazois le <b>26 avril 2015</b> <a href="pages/organisations/chatillon.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-				<p><ul>Semi-nocturne de Sermoise sur Loire le <b>23 mai 2015</b> <a href="pages/organisations/sermoise.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-				<p><ul>Journee sport nature a Luzy <b>11 juillet 2015</b> <a href="pages/organisations/luzy.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-				<!--<p><ul>Championnat Départemental Cyclosport à Fours le <b>12 mai 2013</b> <a href="pages/organisations/fours1.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>-->
-				<p><ul>Prix de Chiddes le <b>9 aout 2015</b> <a href="pages/organisations/chiddes.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
-				<p><ul>Vetathlon à Fours le <b>12 septembre 2015</b> <a href="pages/organisations/vetathlon.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+
+				<p><ul>Prix des Etangs de Montambert le <b>26 mars 2016</b> <a href="pages/organisations/Montambert.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+				<p><ul>Prix de Chatillon en Bazois le <b>24 avril 2016</b> <a href="pages/organisations/chatillon.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+				<p><ul>Championnat de la Nievre FFC a Sermoise sur Loire le <b>8 mai 2016</b> <a href="pages/organisations/sermoise.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+				<p><ul>Championnat Regional FSGT a La Nocle-Molaix le <b>15 mai 2016</b> <a href="pages/organisations/lanoclemolaix.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+				<p><ul>Journee sport nature a Luzy <b>16 juillet 2016</b> <a href="http://glemaitre.github.io/la-sud-morvandelle">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+				<p><ul>Prix de Chiddes le <b>7 aout 2016</b> <a href="pages/organisations/chiddes.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
+				<p><ul>Vetathlon à Fours le <b>10 septembre 2016</b> <a href="pages/organisations/vetathlon.php">[ <img src="../../images/right_arrow.gif" height="10" /> voir les details ]</a></ul></p>
 			      </section>
 			    </td>
 			  </tr>

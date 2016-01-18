@@ -38,9 +38,10 @@
 		    <td valign="top">
 		      <div>
 			<hr color="#cccccc" size="1px">
-			  <center> <b> Dimanche 26 Avril 2015 </b> </center>
+			  <center> <b> Dimanche 24 avril 2016 </b> </center>
 			  <center> Résumé: circuit de 4.731 km </center>
-			  <center> Dénivelé positif : 47 m
+			  <center> Dénivelé positif : 47 m </center>
+			  <center> Depart et arrivee de Beauregard</center>
 			    <hr color="#cccccc" size="1px">
 			      <center><b>Ouverte aux non licencies</b></center>
 			      <center>Pupilles, Poussins, Benjamins : 13 h 00 de 1 a 3 tours soit de 4,7 km a 14,2 km</center>
@@ -50,7 +51,7 @@
 				<table class="contentpaneopen">
 
 				  <tr>
-				    <center><img src="../../images/news/affiche-chatillon.png" height="707" width="505"/></center>
+				    <!-- <center><img src="../../images/news/affiche-chatillon.png" height="707" width="505"/></center> -->
 				    <center><script type="text/javascript" src="http://www.openrunner.com/orservice/inorser-script.php?key=mykey&amp;ser=S03&amp;id=2593553&amp;w=500&amp;h=350&amp;hp=128&amp;k=5&amp;m=0&amp;pa=1&amp;c=0&amp;ts=1375262199"></script></center> 
 				    
 				  </tr>
@@ -78,7 +79,8 @@
 			    <ul class="menu"><li id="current" class="active item1"><a href="Montambert.php"><span>Montambert</span></a></li></ul>	
 			    <ul class="menu"><li id="current" class="active item1"><a href="chatillon.php"><span>Chatillon en Bazois</span></a></li></ul>
 			    <ul class="menu"><li id="current" class="active item1"><a href="sermoise.php"><span>Sermoise sur Loire</span></a></li></ul>
-			    <ul class="menu"><li id="current" class="active item1"><a href="luzy.php"><span>Luzy</span></a></li></ul>
+			    <ul class="menu"><li id="current" class="active item1"><a href="lanoclemolaix.php"><span>La Nocle-Molaix</span></a></li></ul>
+			    <ul class="menu"><li id="current" class="active item1"><a href="http://glemaitre.github.io/la-sud-morvandelle/"><span>Luzy</span></a></li></ul>
 			    <!--<ul class="menu"><li id="current" class="active item1"><a href="montsauche.php"><span>Montsauche Les Settons</span></a></li></ul>-->
 			    <!--<ul class="menu"><li id="current" class="active item1"><a href="fours1.php"><span>Fours 12 mai</span></a></li></ul>-->
 			    <!--<ul class="menu"><li id="current" class="active item1"><a href="foursart.php"><span>Fours 30 juin</span></a></li></ul>-->

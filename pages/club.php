@@ -54,9 +54,12 @@
 					</tr>
 					<tr>
 						<td valign="top" colspan="2">
-						<ul><p><b>Président</b> : Guillaume Lemaître</p>
-						<p><b>Secrétaire</b> : Christophe Tréchot</p>
-						<p><b>Trésorier</b> : Gérard Lavallade</p></ul>
+						<ul>
+						  <p><b>Président</b> : Thierry Martin</p>
+						  <p><b>Vice-président</b> : Guillaume Lemaître</p>
+						  <p><b>Secrétaire</b> : Christophe Tréchot</p>
+						  <p><b>Trésorier</b> : Gérard Lavallade</p>
+						</ul>
 						</td>
 					</tr>
 					<tr>
