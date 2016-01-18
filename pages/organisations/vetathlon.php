@@ -88,7 +88,6 @@
 			  <!--<ul class="menu"><li id="current" class="active item1"><a href="foursart.php"><span>Fours 30 juin</span></a></li></ul>-->
 			  <ul class="menu"><li id="current" class="active item1"><a href="chiddes.php"><span>Chiddes</span></a></li></ul>
 			  <ul class="menu"><li id="current" class="active item1"><a href="vetathlon.php"><span>Vetathlon Fours</span></a></li></ul>
-			  <ul class="menu"><li id="current" class="active item1"><a href="chatillon.php"><span>Chatillon en Bazois</span></a></li></ul>
 			</div>
 			<ul class="menu"><li id="current" class="active item1"><a href="../sponsoring.php"><span>Sponsoring</span></a></li></ul>
 			<ul class="menu"><li id="current" class="active item1"><a href="../contact.php"><span>Contact</span></a></li></ul>
