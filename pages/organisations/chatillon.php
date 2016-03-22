@@ -45,7 +45,7 @@
 			    <hr color="#cccccc" size="1px">
 			      <center><b>Ouverte aux non licencies</b></center>
 			      <center>Pupilles, Poussins, Benjamins : 13 h 00 de 1 a 3 tours soit de 4,7 km a 14,2 km</center>
-			      <center>Minimes, Cadets : 14 h 45 - 6 et 12 tours soit 27,6 km et 55,2 km</center>
+			      <center>Minimes, Cadets : 14 h 45 - 7 et 12 tours soit 33,1 km et 55,2 km</center>
 			      <hr color="#cccccc" size="1px">
 
 				<table class="contentpaneopen">
