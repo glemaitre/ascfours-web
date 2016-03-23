@@ -43,10 +43,10 @@
 			  <center> Résumé : circuit de 6,666 km </center>
 			  <center> Dénivelé positif : 65 m </center>
 			  <hr color="#cccccc" size="1px">
-			    <center> UFOLEP 4: Depart 14 h 36 -  7 tours soit 47,6 km</center>
-			    <center> UFOLEP 3: Depart 14 h 33 -  9 tours soit 61,2 km</center>
-			    <center> UFOLEP 2: Depart 14 h 30 - 10 tours soit 66,6 km</center>
-			    <center> UFOLEP 1: Depart 14 h 30 - 11 tours soit 74,8 km</center>
+			    <center> UFOLEP 4: Depart 15 h 06 -  7 tours soit 47,6 km</center>
+			    <center> UFOLEP 3: Depart 15 h 03 -  9 tours soit 61,2 km</center>
+			    <center> UFOLEP 2: Depart 15 h 00 - 10 tours soit 66,6 km</center>
+			    <center> UFOLEP 1: Depart 15 h 00 - 11 tours soit 74,8 km</center>
 			    <hr color="#cccccc" size="1px">
 
 			      <table class="contentpaneopen">
